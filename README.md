@@ -4,7 +4,7 @@
 
 ### Skills:
 <picture>
-<img alt="my skills" src="https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git&theme=light"/>
+<img alt="my skills" src="https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git&theme=light">
   </picture>
 
 
