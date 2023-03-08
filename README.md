@@ -3,9 +3,7 @@
 **I'm Ken** (he/him) - a full-stack developer who's passionate about crafting delightful web experiences!
 
 ### Skills:
-<picture>
 <img alt="my skills" src="https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git&theme=light">
-  </picture>
 
 
 
