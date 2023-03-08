@@ -5,8 +5,10 @@
 Please take a look around!
 
 ### Project Showcase:
-![](edward.gif)(https://anime-finder-b3751.web.app/)
-![](aama.png)(https://kennethmetz.github.io/fastener-calculator/)
+[![](Edstour.gif)(https://anime-finder-b3751.web.app/)]
+<img src="url(Edstour.gif)" width="50%"/>
+
+[![](AAMA-TRONtour)(https://kennethmetz.github.io/fastener-calculator/)]
 
 ### Skills:
 [![my skills](https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git)](#)
