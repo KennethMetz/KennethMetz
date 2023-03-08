@@ -5,10 +5,12 @@
 Please take a look around!
 
 ### Project Showcase:
-[![](Edstour.gif)(https://anime-finder-b3751.web.app/)]
-<img src="url(Edstour.gif)" width="50%"/>
 
-[![](AAMA-TRONtour)(https://kennethmetz.github.io/fastener-calculator/)]
+**EdwardML** - An Anime Recommendation App Based in Machine Learning.
+<a href="https://github.com/KennethMetz/anime_finder"><img src="EdsTour.gif" width="50%"></a>
+
+**AAMA-TRON** - A structural engineering tool to help select properly size fasteners.
+<a href="https://github.com/KennethMetz/fastener-calculator"><img src="AAMA-TRONtour.gif" width="50%"></a>
 
 ### Skills:
 [![my skills](https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git)](#)
