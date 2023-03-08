@@ -1,18 +1,22 @@
 # Welcome!
 
-**I'm Ken** (he/him) - a full-stack web developer passionate about crafting unique and delightful experiences!
+### I'm Ken - a full-stack web developer passionate about crafting unique and delightful experiences! 
 
-Please take a look around!
+## My Passion Projects:
 
-### Project Showcase:
+### EdwardML 
+Anime Recommendation App Based in Machine Learning.
 
-**EdwardML** - An Anime Recommendation App Based in Machine Learning.
-<a href="https://github.com/KennethMetz/anime_finder"><img src="EdsTour.gif" width="50%"></a>
+|<a href="https://github.com/KennethMetz/anime_finder"><img src="EdsTour.gif" width="100%"></a>|
+|---|
 
-**AAMA-TRON** - A structural engineering tool to help select properly size fasteners.
-<a href="https://github.com/KennethMetz/fastener-calculator"><img src="AAMA-TRONtour.gif" width="50%"></a>
+### AAMA-TRON
+Structural engineering tool to help design properly sized fasteners.
+                              
+|<a href="https://github.com/KennethMetz/fastener-calculator"><img src="AAMA-TRONtour.gif" width="100%"></a>|
+|---|
 
-### Skills:
+## My Skills:
 [![my skills](https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git)](#)
 
 <!--
