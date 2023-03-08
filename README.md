@@ -1,15 +1,15 @@
-# Welcome Friend!
+# Welcome!
 
-**I'm Ken** (he/him) - a full-stack developer who's passionate about crafting delightful web experiences!
+**I'm Ken** (he/him) - a full-stack web developer passionate about crafting unique and delightful experiences!
+
+Please take a look around!
+
+### Project Showcase:
+![](edward.gif)(https://anime-finder-b3751.web.app/)
+![](aama.png)(https://kennethmetz.github.io/fastener-calculator/)
 
 ### Skills:
 [![my skills](https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git)](#)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git&theme=light">
-  <img alt="A list of Ken's skills: react, material UI, node.js, jest, javascript, css, hrml, firebase mongodb, express, and git" src="https://skillicons.dev/icons?i=react,materialui,nodejs,jest,js,css,html,firebase,mongodb,express,git&theme=light">
-</picture>
 
 <!--
 
