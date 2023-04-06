@@ -1,7 +1,3 @@
-# Welcome!
-
-### I'm Ken - a full-stack web developer passionate about crafting unique and delightful experiences! 
-
 ## My Passion Projects:
 
 ### EdwardML 
